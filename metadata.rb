@@ -7,3 +7,4 @@ long_description 'Installs/Configures chef-wrapper-ntp'
 version          '0.1.0'
 
 depends 'ntp', '~> 1.8.6'
+depends 'apt', '~> 2.9.2'
